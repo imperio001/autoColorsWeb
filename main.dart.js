@@ -46463,7 +46463,7 @@ var $async$xs=A.a3(function(a0,a1){if(a0===1){p=a1
 s=q}while(true)switch(s){case 0:h={}
 g="http://www.vozanalisis.com/files/autocolors/login.php"
 f=t.N
-e=A.aN(["Content-Type","application/x-www-form-urlencoded"],f,f)
+e=A.aN(["Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET, POST, PUT, DELETE, OPTIONS","Access-Control-Allow-Headers","Origin, X-Requested-With, Content-Type, Accept","Content-Type","application/x-www-form-urlencoded"],f,f)
 d="-10"
 c=u.d
 q=3
